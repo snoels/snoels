@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning and privacy
 - 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on privacy-preserving machine learning projects
-- 📫 How to reach me sander.noels@gmail.com
+- 📫 How to reach me sander.noels@ugent.be
 
 <!---
 snoels/snoels is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
